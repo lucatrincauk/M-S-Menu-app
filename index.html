@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>Backbone Product App</title>
+  <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css"/>
+
+</head>
+
+<body>
+
+
+<section class="container">
+
+
+
+
+  <div class="row">
+  <h1 class="date"></h1> 
+      <ul class="productContainer row"></ul>
+  </div>
+   
+  </section>
+  
+  <footer>
+    0.1 M&amp;S Menu
+
+  </footer>
+  
+
+  <script type="text/template" id="productTemplate">
+   
+      
+
+          
+               
+          <div class="list-group">
+            <a href="#" class="list-group-item active"><h3 class="<%= id %>"><%= location %></h3></a>
+            <a href="#" class="list-group-item"><strong>Protein Soup:</strong> <%= soup1 %></a>
+            <a href="#" class="list-group-item"><strong>Simple Soup:</strong> <%= soup2 %></a>
+            <a href="#" class="list-group-item"><strong>Theatre Bar</strong> <%= theatre %></a>
+            <a href="#" class="list-group-item"><strong>Bistro</strong> <%= bistro %></a>
+            <a href="#" class="list-group-item"><strong>Vegetarian</strong> <%= vegetarian %></a>
+            <a href="#" class="list-group-item"><strong>Classic</strong> <%= classic %></a>
+            <a href="#" class="list-group-item"><strong>Rotisserie</strong> <%= homeCooked %></a>
+            <a href="#" class="list-group-item"><strong>Plain &amp; Simple</strong> <%= plain %></a>
+            <a href="#" class="list-group-item"><strong>Accompaniments</strong> <%= accompaniments %></a>
+          </div>
+      
+
+
+        
+      
+    
+  </script>
+
+
+
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js" type="text/javascript"></script>
+  <script type="text/javascript" src="http://www.parsecdn.com/js/parse-1.2.16.min.js"></script>
+
+  <script src="http://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.5.2/underscore-min.js" type="text/javascript"></script>
+  <script src="http://cdnjs.cloudflare.com/ajax/libs/backbone.js/1.1.0/backbone-min.js"></script>
+  <script src="http://cdnjs.cloudflare.com/ajax/libs/backbone-localstorage.js/1.1.0/backbone.localStorage-min.js"></script>
+  <script src="bb.js"></script>
+
+  <style type="text/css">
+    li {list-style:none}
+    h1,footer {text-align: center;}
+    footer {font-size: .7em}
+ 
+
+  </style>
+
+
+
+
+
+
+  </body>
+</html>
