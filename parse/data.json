@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "day": 1,
+    "day": "Monday",
     "location": "Merchant Square",
     "soup1": "Thai Chicken",
     "soup2": "Creamed mushroom and fresh tarragon",
@@ -20,7 +20,7 @@
   },
   {
     "id": 2,
-    "day": 1,
+    "day": "Monday",
     "location": "Waterside",
     "soup1": "Chicken and mushroom",
     "soup2": "Roasted butternut squash",
@@ -39,7 +39,7 @@
   },
   {
     "id": 3,
-    "day": 2,
+    "day": "Tuesday",
     "location": "Merchant Square",
     "soup1": "Spicy lentil",
     "soup2": "Sheperd's pie soup",
@@ -58,7 +58,7 @@
   },
   {
     "id": 4,
-    "day": 2,
+    "day": "Tuesday",
     "location": "Waterside",
     "soup1": "Chicken and mushroom",
     "soup2": "Roasted butternut squash",
@@ -77,7 +77,7 @@
   }, 
     {
     "id": 5,
-    "day": 3,
+    "day": "Wednesday",
     "location": "Merchant Square",
     "soup1": "Haddock chowder",
     "soup2": "Leek and potato",
@@ -96,7 +96,7 @@
   },
   {
     "id": 6,
-    "day": 3,
+    "day": "Wednesday",
     "location": "Waterside",
     "soup1": "Craem of broccoli and bacon",
     "soup2": "Tomato and basil",
@@ -116,7 +116,7 @@
   },
       {
     "id": 7,
-    "day": 4,
+    "day": "Thursday",
     "location": "Merchant Square",
     "soup1": "Spiced lamb and red lentil",
     "soup2": "Country vegetable",
@@ -135,7 +135,7 @@
   },
   {
     "id": 8,
-    "day": 4,
+    "day": "Thursday",
     "location": "Waterside",
     "soup1": "Chicken and mushroom",
     "soup2": "Roasted butternut squash",
@@ -154,7 +154,7 @@
   },   
         {
     "id": 9,
-    "day": 5,
+    "day": "Friday",
     "location": "Merchant Square",
     "soup1": "Spiced lamb and red lentil",
     "soup2": "Country vegetable",
@@ -173,7 +173,7 @@
   },
   {
     "id": 10,
-    "day": 5,
+    "day": "Friday",
     "location": "Waterside",
     "soup1": "Chicken and mushroom",
     "soup2": "Roasted butternut squash",
