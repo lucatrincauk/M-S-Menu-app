@@ -12,6 +12,18 @@
   // Product model
   App.Models.Product = Backbone.Model.extend({
     // Default values for empty model
+    defaults: {
+      "soup1": "-",
+      "soup2": "-",
+      "theatreBar": "-",
+      "bistro": "-",
+      "classic": "-",
+      "vegetarian": "-",
+      "plain": "-",
+      "traditional": "-",
+      "rotisserie": "-",
+      "accompaniments": "-"
+    }
    
   });
   // Products Collection model
