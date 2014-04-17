@@ -1,0 +1,12 @@
+li {list-style:none}
+h1,footer {text-align: center;}
+footer .container {padding: 8px 0 16px;}
+footer a, footer p {color: #4D4D4D;}
+.prev {float:left;}
+.next {float:right;}
+nav {overflow: hidden; margin-bottom: 20px;margin-top: -45px;}
+ul {padding: 0; margin: 0;}
+h3 {text-align: center;margin: 8px 0;}
+footer .copy {float: left; text-align: left}
+footer > div > p {float: right;}
+.product a {cursor: default;}
