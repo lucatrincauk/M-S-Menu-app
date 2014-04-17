@@ -11,12 +11,7 @@
     "classic": "Cheese and onion pasty",
     "traditional": "Low fat chicken and vegetable curry",
     "plain": "Pork and leek sausage or cod fillet",
-    "accompaniments": "Crushed new potatoes, steamed cabbage, mixed seasonal vegetables",
-    "subalbum": 
-        {
-            "title": "Doo Wops and Hooligans"
-        }
-    
+    "accompaniments": "Crushed new potatoes, steamed cabbage"   
   },
   {
     "id": 2,
@@ -30,12 +25,7 @@
     "classic": "Melting middle fishcake",
     "traditional": "Black bean chicken",
     "plain": "Pork sausage",
-    "accompaniments": "Sweet potato wedges",
-    "subalbum": 
-        {
-            "title": "Doo Wops and Ho0oligans" 
-        }
-    
+    "accompaniments": "Sweet potato wedges"    
   },
   {
     "id": 3,
@@ -49,12 +39,7 @@
     "classic": "Quiche selection",
     "traditional": "Chilli con carne and rice",
     "plain": "Chairgrilled chicken or hake",
-    "accompaniments": "Baked wedges, sauteed courgette, mixed seasonal vegetables",
-    "subalbum": 
-        {
-            "title": "Doo Wops and Hooligans"
-        }
-    
+    "accompaniments": "Baked wedges, sauteed courgette"    
   },
   {
     "id": 4,
@@ -68,12 +53,7 @@
     "classic": "Melting middle fishcake",
     "traditional": "Black bean chicken",
     "plain": "Pork sausage",
-    "accompaniments": "Sweet potato wedges",
-    "subalbum": 
-        {
-            "title": "Doo Wops and Ho0oligans" 
-        }
-    
+    "accompaniments": "Sweet potato wedges"
   }, 
     {
     "id": 5,
@@ -87,12 +67,7 @@
     "classic": "Cornish pastie",
     "traditional": "Sweet and sour pork with chow mein noodles",
     "plain": "Crispy breaded turkey or baked sole",
-    "accompaniments": "Mash, roast carrots, mixed seasonal vegetables",
-    "subalbum": 
-        {
-            "title": "Doo Wops and Hooligans"
-        }
-    
+    "accompaniments": "Mash, roast carrots"    
   },
   {
     "id": 6,
@@ -107,87 +82,64 @@
     "traditional": "Spanish chorizo and white bean casserole",
     "rotisserie": "Chef marinated british meat",
     "plain": "Stuffed mushrooms or grilled salmon",
-    "accompaniments": "Roasted new potatoes, chantary carrots, mixes seasonal medley",
-    "subalbum": 
-        {
-            "title": "Doo Wops and Ho0oligans" 
-        }
-    
+    "accompaniments": "Roasted new potatoes, chantary carrots"    
   },
       {
     "id": 7,
     "day": 4,
     "location": "Merchant Square",
-    "soup1": "Spiced lamb and red lentil",
-    "soup2": "Country vegetable",
-    "theatre": "Fish finger sandwich",
-    "bistro": "Confit chicken leg",
-    "vegetarian": "Spaghetti with spinach and almond pesto",
-    "classic": "Steak pie",
-    "traditional": "Lamb kheema",
-    "plain": "Gammon steak",
-    "accompaniments": "Steamed new potatoes",
-    "subalbum": 
-        {
-            "title": "Doo Wops and Hooligans"
-        }
-    
+    "soup1": "Cream of tomato",
+    "soup2": "Chunky pea and shredded ham",
+    "theatre": "Roast Bar (Pork Leg, Beef Topside or Butternut Squash)",
+    "bistro": "Oakham chicken thigh tagine",
+    "vegetarian": "Creamy mushroom and thyme lasagne",
+    "classic": "Tuna fishcake",
+    "traditional": "Sausage and mash",
+    "plain": "Chargrilled gammon steak or plaice",
+    "accompaniments": "Roast sweet potato, curly kale"
   },
   {
     "id": 8,
     "day": 4,
     "location": "Waterside",
-    "soup1": "Chicken and mushroom",
-    "soup2": "Roasted butternut squash",
-    "theatre": "Caesar salad bar",
-    "bistro": "Beef lasagne",
-    "vegetarian": "Chipotle bean burrito",
-    "classic": "Melting middle fishcake",
-    "traditional": "Black bean chicken",
-    "plain": "Pork sausage",
-    "accompaniments": "Sweet potato wedges",
-    "subalbum": 
-        {
-            "title": "Doo Wops and Ho0oligans" 
-        }
-    
+    "soup1": "French onion",
+    "soup2": "Sweet potato and coconut",
+    "theatre": "Los Burritos",
+    "bistro": "Pheasant and rabbit pie",
+    "vegetarian": "Spicy winter vegetable and bean ragout",
+    "classic": "Tomato quiche",
+    "traditional": "Pork sausage and mashed potato",
+    "plain": "Chargrilled filled of chicken or hake",
+    "rotisserie": "Chefs Marinated British meat",
+    "accompaniments": "Lyonnais style potatoes, cauliflower cheese"
   },   
         {
     "id": 9,
     "day": 5,
     "location": "Merchant Square",
-    "soup1": "Spiced lamb and red lentil",
-    "soup2": "Country vegetable",
-    "theatre": "Fish finger sandwich",
-    "bistro": "Confit chicken leg",
-    "vegetarian": "Spaghetti with spinach and almond pesto",
-    "classic": "Steak pie",
-    "traditional": "Lamb kheema",
-    "plain": "Gammon steak",
-    "accompaniments": "Steamed new potatoes",
-    "subalbum": 
-        {
-            "title": "Doo Wops and Hooligans"
-        }
-    
+    "soup1": "Moroccan chicken",
+    "soup2": "Cream of seasonal vegetables",
+    "theatre": "Thai red turkey curry or butternut squash green curry",
+    "bistro": "Hunter's chicken",
+    "vegetarian": "Green vegetable and herb risotto",
+    "classic": "Battered fillet of cod",
+    "traditional": "Pasta bar",
+    "plain": "Steamed chicken or baked trout",
+    "accompaniments": "Steamed new potato"
   },
   {
     "id": 10,
     "day": 5,
     "location": "Waterside",
-    "soup1": "Chicken and mushroom",
-    "soup2": "Roasted butternut squash",
-    "theatre": "Caesar salad bar",
-    "bistro": "Beef lasagne",
-    "vegetarian": "Chipotle bean burrito",
-    "classic": "Melting middle fishcake",
-    "traditional": "Black bean chicken",
-    "plain": "Pork sausage",
-    "accompaniments": "Sweet potato wedges",
-    "subalbum": 
-        {
-            "title": "Doo Wops and Ho0oligans" 
-        }
-    
+    "soup1": "Chicken and leek",
+    "soup2": "Carrot and coriander",
+    "theatre": "Fish and chips shop bar",
+    "bistro": "Pork with chilli and pineapple salsa and Pak Choi",
+    "vegetarian": "Cauliflower, leek and rigatoni bake with gorgonzola",
+    "classic": "-",
+    "traditional": "Selection of Pasta, pesto and two fresh homemade sauces",
+    "plain": "-",
+        "rotisserie": "Chefs Marinated British meat",
+    "accompaniments": "Parsley potatoes, steamed garden peas or mushy peas"
   }      
 ]
